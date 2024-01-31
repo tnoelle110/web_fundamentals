@@ -1,0 +1,30 @@
+body {
+    background-color: #f2a7ca;
+}
+#education {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.difference {
+    color: white;
+    text-align: center;
+}
+
+#pres {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.articles {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 500;
+}
+
+img {
+    max-width: 100;
+}
+
