@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    width: 400px;
+}
+
+p {
+    border: 10px solid purple;
+    padding: 50px;
+    background-color: aquamarine;
+    margin: 100px auto;
+    width: 400px;
+    text-align: center;
+    box-sizing: border-box;
+}

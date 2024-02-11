@@ -2,7 +2,7 @@
 /* if you are using any Google fonts change the font names below to your fonts. 
 Any spaces in your font name should be replaced with a +. 
 Fonts are separated by a & */
-@import url('https://fonts.googleapis.com/css2?family=Verdana&family=Urbanist&family=Courier+New&family=Tahoma&family=New+Century+Schoolbook&family=Times+New+Roman:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&family=Miltonian+Tattoo&family=Protest+Revolution&family=Roboto&family=Roboto+Flex:opsz,wght@8..144,200&display=swap');
 
 :root {
   /* change the values below to your colors from your palette */
@@ -12,8 +12,8 @@ Fonts are separated by a & */
   --accent2-color: #94778B;
 
   /* change the values below to your chosen font(s) */
-  --heading-font: Courier;
-  --paragraph-font: Verdana;
+  --heading-font: "Miltonian Tattoo", "Protest Revolution", "Courier Prime";
+  --paragraph-font: "Roboto Flex", "Roboto", Verdana;
 
   /* these colors below should be chosen from among your palette colors above */
   --headline-color-on-white: #37123C;  /* headlines on a white background */ 
