@@ -87,7 +87,7 @@ footer {
 }
 
 .home-title {
-    color: #c0d9ca;
+    color: #37123C;
     font-family: "Miltonian Tattoo", "Protest Revolution", "Courier Prime";
     font-size: 2em;
     margin-top: 10px;
@@ -237,7 +237,6 @@ width: 100%;
 
 .home-grid {
     display: grid;
-    grid-template-columns: repeat(10, 1fr);
 }
 
 
@@ -281,5 +280,13 @@ width: 100%;
     footer {
         margin-top: 25px;
     }
+}
+
+.family_rafting {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
 }
             
