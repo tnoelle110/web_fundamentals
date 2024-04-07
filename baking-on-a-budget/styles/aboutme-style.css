@@ -78,7 +78,6 @@ footer {
     font-size: 2em;
     margin-top: 10px;
     text-align: center;
-
 }
 h4 {
     color: #8B4513;
@@ -179,4 +178,31 @@ color: #8B4513;
 .home-grid {
     display: grid;
     grid-template-columns: repeat(10, 1fr);
+}
+
+
+.home-page {
+    display: grid;
+    grid-template-columns: auto 1fr; /* Adjust column sizes */
+    gap: 20px; /* Adjust gap between elements */
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#me {
+    max-width: 200px; /* Ensure the image doesn't exceed its container */
+}
+
+h4 {
+    text-align: center;
 }
